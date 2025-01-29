@@ -20,9 +20,6 @@
 		"AzureKeyVaultLS_properties_typeProperties_baseUrl": {
 			"value": "https://kvsaccount12.vault.azure.net/"
 		},
-		"trigger1_properties_pipeline1_parameters_FileName": {
-			"value": ".triggerBody().Filename"
-		},
 		"trigger1_properties_typeProperties_scope": {
 			"value": "/subscriptions/411afb24-2c5a-4d4e-87c5-d9a4a895ef45/resourceGroups/resourcegrup/providers/Microsoft.Storage/storageAccounts/staccount122"
 		},
