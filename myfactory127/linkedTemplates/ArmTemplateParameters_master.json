@@ -5,21 +5,6 @@
 		"factoryName": {
 			"value": "myfactory127"
 		},
-		"AzureBlobStorageLS_connectionString": {
-			"value": ""
-		},
-		"AzureDataLakeStorageLS_accountKey": {
-			"value": ""
-		},
-		"AzureDataLakeStorageLS_properties_typeProperties_url": {
-			"value": "https://detalakestorage.dfs.core.windows.net/"
-		},
-		"AzureDatabricksLS_properties_typeProperties_existingClusterId": {
-			"value": "0129-161902-l23uwmjk"
-		},
-		"AzureKeyVaultLS_properties_typeProperties_baseUrl": {
-			"value": "https://kvsaccount12.vault.azure.net/"
-		},
 		"trigger1_properties_typeProperties_scope": {
 			"value": "/subscriptions/411afb24-2c5a-4d4e-87c5-d9a4a895ef45/resourceGroups/resourcegrup/providers/Microsoft.Storage/storageAccounts/staccount122"
 		},
