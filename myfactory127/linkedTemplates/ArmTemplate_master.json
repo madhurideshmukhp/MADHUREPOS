@@ -27,6 +27,14 @@
 			"type": "string",
 			"defaultValue": "https://kvsaccount12.vault.azure.net/"
 		},
+		"trigger1_properties_pipeline1_parameters_FileName": {
+			"type": "string",
+			"defaultValue": ".triggerBody().Filename"
+		},
+		"trigger1_properties_typeProperties_scope": {
+			"type": "string",
+			"defaultValue": "/subscriptions/411afb24-2c5a-4d4e-87c5-d9a4a895ef45/resourceGroups/resourcegrup/providers/Microsoft.Storage/storageAccounts/staccount122"
+		},
 		"containerUri": {
 			"type": "string",
 			"metadata": "URI to storage account containing linked ARM templates"
@@ -68,6 +76,12 @@
 					},
 					"AzureDatabricksLS_properties_typeProperties_existingClusterId": {
 						"value": "[parameters('AzureDatabricksLS_properties_typeProperties_existingClusterId')]"
+					},
+					"trigger1_properties_pipeline1_parameters_FileName": {
+						"value": "[parameters('trigger1_properties_pipeline1_parameters_FileName')]"
+					},
+					"trigger1_properties_typeProperties_scope": {
+						"value": "[parameters('trigger1_properties_typeProperties_scope')]"
 					}
 				}
 			},
