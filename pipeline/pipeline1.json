@@ -8,6 +8,10 @@
 				"dependsOn": [],
 				"userProperties": [],
 				"typeProperties": {
+					"items": {
+						"value": "@activity('Copy data1').output",
+						"type": "Expression"
+					},
 					"activities": [
 						{
 							"name": "Copy data1",
@@ -107,7 +111,7 @@
 			}
 		],
 		"parameters": {
-			"Filename": {
+			"FileName": {
 				"type": "string"
 			}
 		},
