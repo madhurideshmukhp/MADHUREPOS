@@ -1,0 +1,9 @@
+{
+	"name": "myfactory127",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ce89a440-7287-4f79-a80a-7a4a4dfdeca5",
+		"tenantId": "441dc366-2988-4558-8827-718893181569"
+	}
+}
