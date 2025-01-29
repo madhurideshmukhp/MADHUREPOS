@@ -1,0 +1,24 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "myfactory127"
+		},
+		"AzureBlobStorageLS_connectionString": {
+			"value": ""
+		},
+		"AzureDataLakeStorageLS_accountKey": {
+			"value": ""
+		},
+		"AzureDataLakeStorageLS_properties_typeProperties_url": {
+			"value": "https://detalakestorage.dfs.core.windows.net/"
+		},
+		"AzureDatabricksLS_properties_typeProperties_existingClusterId": {
+			"value": "0129-161902-l23uwmjk"
+		},
+		"AzureKeyVaultLS_properties_typeProperties_baseUrl": {
+			"value": "https://kvsaccount12.vault.azure.net/"
+		}
+	}
+}
