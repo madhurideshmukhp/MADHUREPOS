@@ -1,0 +1,9 @@
+{
+	"name": "myfatoryacc199",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1b9772b6-e62f-4ea6-8232-093002502f66",
+		"tenantId": "441dc366-2988-4558-8827-718893181569"
+	}
+}
