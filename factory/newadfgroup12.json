@@ -1,0 +1,9 @@
+{
+	"name": "newadfgroup12",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "bb2edae2-d38f-4f5e-89fd-7b4428f0bdd9",
+		"tenantId": "441dc366-2988-4558-8827-718893181569"
+	}
+}
